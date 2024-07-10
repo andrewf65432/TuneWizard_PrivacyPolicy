@@ -1,4 +1,4 @@
-# TuneWizard_PrivacyPoilicy
+# TuneWizard_PrivacyPolicy
 Privacy Policy for TuneWizard
 
 'TuneWizard (\"we\", \"us\", or \"our\") operates the TuneWizard app (\"App\"). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal information when you use our App.\n\nBy using the App, you agree to the collection and use of information in accordance with this policy.
